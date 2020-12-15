@@ -1,0 +1,10 @@
+.search {
+	margin-bottom: 5px;
+	border: 2px solid black;
+	padding: 5px;
+}
+
+.flex {
+	display: flex;
+  justify-content: center;
+}

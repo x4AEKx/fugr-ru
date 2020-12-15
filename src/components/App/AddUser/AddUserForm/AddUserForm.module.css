@@ -1,0 +1,13 @@
+.flex {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.flex div {
+	width: 20%;
+	box-sizing: border-box;
+}
+
+.flex div input {
+	width: 100%;
+}
